@@ -110,7 +110,7 @@ __As a site visitor, I want to learn more about Mert__
 
 ---
 
-## 4. Introduce Tiago
+## 5. Introduce Tiago
 
 __As a site visitor, I want to learn more about Tiago__
 
@@ -133,7 +133,7 @@ __As a site visitor, I want to learn more about Tiago__
 
 ---
 
-## 5. Introduce HYFbe
+## 6. Introduce HYFbe
 
 __As a site visitor, I want to learn more about HYFbe__
 
@@ -156,7 +156,7 @@ __As a site visitor, I want to learn more about HYFbe__
 
 ---
 
-## 6. Finishing Touches
+## 7. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
 
