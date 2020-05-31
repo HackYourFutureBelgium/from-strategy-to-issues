@@ -19,6 +19,7 @@ __A User can see a empty site at the correct URL__
 1. turn on GitHub Pages
 1. Write a development strategy
 1. Translate the strategy into issues
+1. Put each issue on a new project board
 
 ---
 
